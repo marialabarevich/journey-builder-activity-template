@@ -36,7 +36,7 @@ define([
         console.log(dataSources);
     }
 
-    function onRequestedInteraction (interaction) {    
+    function onRequestedInteraction (interaction) {
         console.log('*** requestedInteraction ***');
         console.log(interaction);
      }
